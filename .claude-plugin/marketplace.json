@@ -1,0 +1,15 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "meta-whatsapp",
+  "owner": {
+    "name": "Jaimin",
+    "url": "https://github.com/jaimsh"
+  },
+  "plugins": [
+    {
+      "name": "meta-whatsapp",
+      "source": "./",
+      "description": "Send WhatsApp messages and manage Meta WhatsApp Business API credentials directly from Claude."
+    }
+  ]
+}
