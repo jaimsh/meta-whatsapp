@@ -1,0 +1,9 @@
+{
+  "name": "meta-whatsapp",
+  "version": "0.1.0",
+  "description": "Send WhatsApp messages and manage Meta WhatsApp Business API credentials directly from Claude.",
+  "author": {
+    "name": "Jaimin"
+  },
+  "keywords": ["whatsapp", "meta", "messaging", "notifications"]
+}
